@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 //Estas seria el codigo de una nueva funcionalidad que se desarrolla
 
 //Realizamos un cambio para mostrarlo en Jenkins
+=======
+Estas seria el codigo de una nueva funcionalidad que se desarrolla
+Esta linea se creó para mostrar avances en jenkin :)
+>>>>>>> df4d988bccd74625433d244d806f8c3988bbf60f
